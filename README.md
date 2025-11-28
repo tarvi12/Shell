@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for git fetch practice on remote
+Schell Scripts for git pull practice on remote
