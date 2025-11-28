@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for git pull practice
+Schell Scripts for git fetch practice
