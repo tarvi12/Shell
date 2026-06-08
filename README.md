@@ -1,2 +1,3 @@
 # Shell
-Shell Scripts for git pull practice
+Shell Scripts for git pull practice and fun
+
